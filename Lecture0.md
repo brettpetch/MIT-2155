@@ -40,7 +40,9 @@ It is unprecidented reach across space. The idea of using an alternative technol
 - Email: 1971
 - Buletin Board Systems 1978
 - Multi-User Dungeons: 1978-80
-- Usenet Newsgroups 1980
+    - Components: parser, counters, etc.
+- Usenet Newsgroups 1980 - a way for early internet adopters to post things and express through various communicative acts.
+
 
 <object style="width: 45vw; height: 45vh;" data="attachments/Lecture-0/syllabus.pdf">
 </object>
