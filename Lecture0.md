@@ -23,4 +23,7 @@ date: 2019-01-08
 <object style="width: 45vw; height: 45vh;" data="attachments/Lecture-0/syllabus.pdf">
 </object>
 
-<object data="attachments/Lecture-0/slides.pdf"></object>
+
+
+<object style="width: 45vw; height: 45vh;" data="attachments/Lecture-0/slides.pdf">
+</object>
