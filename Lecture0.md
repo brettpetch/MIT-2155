@@ -88,6 +88,7 @@ It is unprecidented reach across space. The idea of using an alternative technol
     - Online Communities: Gemeinschaft (eg. fandom, activism) and Gesellschaft (data mining, advertising)
     - Online Collaboration (eg. wikis, modding, open-source)
 
+
 <object style="width: 45vw; height: 45vh;" data="attachments/Lecture-0/syllabus.pdf">
 </object>
 
