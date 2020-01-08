@@ -7,7 +7,20 @@ date: 2019-01-08
     1. About the course 
     2. Important Dates
     3. Grade Breakdown
+    4. About (course)
 
-<iframe src="https://owl.uwo.ca/access/content/attachment/2777f434-de25-4924-b4c8-766e70bdfb6d/Syllabus/7d5e2b9b-8411-4556-b554-40c4d0a556f4/MIT%202155%20syllabus%202020.pdf" width="45vw" height="45vh">
-</iframe>
+4. What's MIT 2155 About?
+    - Course objectives: 
+        - Learn key concepts in political economy, sociolgoy, and cultural studies and apply them to case studies of social media platforms and video games
+        - Critically analyze social media and videogames based on their social, economic and cultural implications
+        - Expand understanding of the social relationship between networked media technologies and culture
+    - 3 Units
+        - Critiquing social media: theoretical background, theories of critique, identity, etc.
+        - The Business of Networking: Political economy of social media giants like Facebook, Google, Twitter, etc.
+        - Living Online: Activism and issues of online communication, collaberation and play
+    - 
 
+<object data="attachments/Lecture-0/syllabus.pdf" width="45vw" height="45vh">
+</object>
+
+<object data="attachments/Lecture-0/slides.pdf" width="45vw" height="45vh"></object>
