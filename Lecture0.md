@@ -20,7 +20,7 @@ date: 2019-01-08
         - Living Online: Activism and issues of online communication, collaberation and play
     - 
 
-<object width="45vw" height="45vh" data="attachments/Lecture-0/syllabus.pdf" >
+<object style="width: 45vw; height: 45vh;" data="attachments/Lecture-0/syllabus.pdf">
 </object>
 
-<object width="45vw" height="45vh" data="attachments/Lecture-0/slides.pdf" ></object>
+<object data="attachments/Lecture-0/slides.pdf"></object>
