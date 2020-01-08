@@ -19,6 +19,7 @@ date: 2019-01-08
     - Critiquing social media: theoretical background, theories of critique, identity, etc.
     - The Business of Networking: Political economy of social media giants like Facebook, Google, Twitter, etc.
     - Living Online: Activism and issues of online communication, collaberation and play
+
 ## 3. Group Introductions
 - In groups, discuss:
     1. One interesting thing about each person
@@ -32,6 +33,7 @@ date: 2019-01-08
     - Communication
     - Community
     - Collaboration and Cooperation 
+    
 ## 5. A brief (pre)history of social media
 It is unprecidented reach across space. The idea of using an alternative technolgy changes how ideas were mediated.
 
