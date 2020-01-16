@@ -33,3 +33,5 @@ theme_color: yellow
 markdown: kramdown
 
 owl: https://owl.uwo.ca/portal/site/2777f434-de25-4924-b4c8-766e70bdfb6d
+
+google_analytics: UA-45906012-10
