@@ -1,5 +1,5 @@
 ---
-title: You've Got the Power - Participatory 
+title: You've Got the Power - The Perils of Participation
 author: Brett Petch
 date: 2020-01-22 09:30:00
 layout: category-post
@@ -73,4 +73,39 @@ While we may not necessarily participating in this kind of content, we may look 
 - Lulz culture: 4chan and Reddit as sites where ironic / non-ironic memes spread
 - Rejection of "political correctness" feeds into right-wing reactionism
 - Fuchs: soccer hooliganism also rise of the "alt-right"
+
+## Manuel Castells
+The main takeaway is that he worked for communications-based methodology. He used computational metaphors, etc. More of a communications than cultural studies kind of guy. One of the things that Fuchs quoted is outlined below on [In Power]
+- Spanish sociologist
+- 1942 - 
+- Research focus on life in "network society"
+- Outlined in *Information Age* trilogy (1996-98) and *Communication Power* (2009)
+
+### On Power:
+>"The relational capacity that enables a social actor to influence asymmetrically the decisions of other social actor(s) in ways that favour the empowered actor's will, interets, and values" 
+- (Fuchs 88)
+
+You have one actor that is imposing their will on the actions of others. Influenced by Weber (Max). Foucault, as Fuchs writes in the chapter -> constructive discursivity. The soverign power, an example being the state. Wants to go back to Network Society -> one of the things that came out of the information age, used the emergence of the modern internet... new networks emerging, leading to better stuff. Fuchs would say: "no, 25 years later nothing has really changed". Is this what marx would call "Late Stage Capitalism" -- no not necessarily. 
+
+## Anthony Giddens
+Influencial economist, Fuchs uses to address problems about reading from Fuchs.
+- British sociologist, policymaker
+- 1938-
+- Cambridge; London School of Economics...
+
+### On Power
+In Fuch's discussion, he writes that the implications become recursive. If power is about changing things, it means that we can make changes if they need to be made. There is not fixed heiarchy. Things can be changed, recreated constantly. The implication of this is that power itself can be changed. Power can function in more than one way. Power is inherrantly asymmetrical, where one person may not have more power than someone else. We can think of power as something that is shared, balanced, or distributed. Castells dismisses these ideas of distributed power, IE: "we've always had oppression, so there will always be oppression". Example of symmetry: friendship - you do not have power over the other person.   
+- For giddens, power is
+>"A transformitive capacity, the capability ot intervene in a given set of events so as in some way to alter them"
+- Giddens
+
+- Social activities are recursive - they recreate themselves constantly.
+- Ergo, nature of power also changeable -- pontential to be symmetric or asymmetric.
+
+## Power as Dialectic
+- Fuchs stresses the dialectic theory of communication power
+- Different levels constantly acting and reacting with each other.
+- Structures of power can be economic, political, or cultural.
+(see pg. 81 in text)
+
 
