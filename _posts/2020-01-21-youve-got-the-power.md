@@ -109,3 +109,14 @@ In Fuch's discussion, he writes that the implications become recursive. If power
 (see pg. 81 in text)
 
 
+## Social Media: How Much Power?
+Many of these revolutions / movements have fallen behind and have gone back into the same kind of repression from before. Inherrantly neutral. Just because you can live-tweet the revolution doesn't mean it's going to carry off. Recently, state forces are able to use these same tools. Even though things like Facebook and Twitter can be monitored, surpress revolution, etc.
+- Contra Castells, Fuchs argues a dialectic between online and offline protesting/political organization
+- Arab Spring, Occupy use social media, but direct action most important
+- Social media Neutral (can be used for surveillance / reprisals)
+
+### Facebook Revolutions
+Social media is not the defining success or failure for a revolution. It is a good tactical tool, but not necessarily the most important. In recent years, these things started out like Twitter hashtags, etc. Linked to physical protests, using same tactics that are used previous revolutions.
+- Social Media a “tactical” tool to coordinate action, but not most important
+- Recent movements like BLM, Women’s March spread quickly via SM, but are sustained by traditional organizing and direct action in the streets
+
