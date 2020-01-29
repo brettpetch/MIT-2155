@@ -106,3 +106,38 @@ Mobile games have been growing fast. In 2019, $70 Billion revenue. People are bu
 ### Free to Play: Ads in Games
 Casual games are often supported by the "free to play" model; where downloads are free, but watching ads and in-game purchases gives advantages. Predatory games are pay to win, where players need to pay to unlock functionality when competing with others. Often there is an element of gambling (loot boxes, etc.)
 
+### eSports
+Broadband internet and social media led to boom in competitive, online video games in 2010s. Big games include FTP team games like Dota 2, League of Legends; also Fortnite.
+Second only to music for YouTube views, exceeding traditional sports.
+
+### Free To Play (Valve, 2014)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UjZYMI1zB9s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Audiences and Advertising
+Similar network building work done by audiences in online games as in social media. Combines traditional advertising, sports, sponsorships, datamining, gambling, etc.
+
+
+# Guest Lecture
+#### Rebecca Ford
+#### Digital Extremes
+
+As you can see, I am an MIT Class of 2012 alumni. Live Ops in Forbes 30 under 30 - games 2020. WarFrame was never going to be sold as a 1 & done, but rather. Video games are the largest entertainment industry. This is more a conversation on transitioning from university into the entertainment industry. Digital extremes has had 20ish games, where a publisher would give them $20 million to make a game, then they got paid while the publisher continued to make profit. War-Frame is supported by MIT grads. Fine arts, etc. are very important... What do we actually do? Our team is split in two ways to serve games. Working with Valve, Xbox, Playstration and Nintendo to ensure that tools of communication: difference between what is said online and what is done online. We people choose to talk to developers. Then there is the other side of things. Why do people like those things and how can we understand our audience better? over 50 million people have played the game. Let's say you go work at DE, Everything in the screenshot is made by community. We opened a program that allows creators of the skins to get a profit share. It's ~6 years old. People that know how to do 3D modelling is able to do 30% off of whatever the skin is sold for in game. You don't just learn how to 3D model overnight, but we've built a program that enables the community to participate in the revenue share in the popularity of the game. We are one of the biggest games to do this. 
+
+Twitch is an Amazon company, where we will do dev streams. We do an online shareholders meeting where people will... Influencers on Twitch do marketing. Traditional marketing doesn't work anymore. Literally just paying the biggest streamer in the world to play our game for an hour generates a higher reciprical profit than putting a giant billboard in Times Square. In the community side of things, they working the community side of things. The knowledge of gaming can be played at large. 
+
+## Four Headlines from the Gaming Industry (Gamespot)
+### Activision and EA Layoffs
+This was one of the largest layoffs in the past year. You may have talked about this, not in this class. Layoffs are more frequent than you would think. Publishers, people, etc. How does the most profitable... If you can just pay one guy to stream a game for an hour.
+
+### Apex Legends becomes the Next Battle Royale Hit
+Apex legends came out the week after the superbowl. You can't just do it because someone else did it. There was no marketing... Literally just turned on Twitch, then said "we have an announcement to make". People knew who Respawn was made by the people who got fired from infinity ward (call of duty). Basically the equivalent of Netflix showing up overnight. Fortnite burnout was happening. Realistic, gritty battle royale. Didn't even have to pay people to play...
+
+### Google Stadia enters streaming space
+Announced at GDC. Went to devs and said "we're making a streaming/gaming platform". The launch was a flop, the hottest take on how latent it was. Lots of bad-faith advertising. Stadia solidified that unless you were a pillar. Hard to buy everything
+
+### Blizzard and Hong Kong
+If you are an esports athlete, what are you allowed to say about esports, etc. The mainland china... esport athelete made remark that Blizzard then banned him for. There were also more people notably silent on it. It is important to interpret how people react through silence.
+
+## 2020?
+I wonder what happens in 2020? We know that Next-Gen Xbox and Playstation. What kind of labour shakeups / layoffs, etc. World / china as a gaming market? Netflix and Streaming? How much money is it going to be?
+
