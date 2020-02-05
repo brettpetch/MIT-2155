@@ -5,3 +5,5 @@ _site
 vendor
 projects/MIT.2155.asn1.docx
 projects/bpetch.mit2155.asn1.docx
+node_modules/*
+package-lock.json
