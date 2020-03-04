@@ -58,3 +58,17 @@ Relate to followers on a personal level: Authentic, nurtural, positive. Spends o
 ## Does Influencer Marketing Work?
 40% of consumers have purchased after seeing. $6.50 for every $1 on influencer marketing, YouTube subs trust influencers > celebrities. 
 
+
+# The Sims
+How does EA invite its consumers to participate? 
+
+Sims: An avatar, create life, build house, career path, etc. simulated life from their own. Sandboxed game. 
+
+## Game Customization: 
+Modding: Subcultures in diy... Subcultures help initiate participatory forms of media consumption.   Also gives players the ability to center around adult content.
+Cheats: motherload, $50,000 for sims, easy to find, etc. Encouraged by EA to make more realistic and personable. 
+Custom Content: Fan-generated content made by players for player (sold). Users will make different face building options, etc. Became extremely extensible. 
+
+## Social Media Platforms
+Participatory culture: fandom in making game social: Three Networks - The Gallery, IG, YouTube.
+Through these three, henry jenkins would support that these platforms... videogames are key drivers. Players can communicate eachother in the networking site. Can also 
