@@ -49,8 +49,12 @@ Influencers in relation to the traditional media: traditional media is considere
 |New Media | Old Media | 
 |:--------- |:- | 
 |Targeted to different groups of people | Advertise widely|
-|Provides the consumer with choice | Bombarding wit hthe same message|
+|Provides the consumer with choice | Bombarding with the same message|
 |Efficient brands reach out | |
 
 ## Power 
-Relate to followers on a personal level: Authentic, nurtural, positive. Spends on finluencer marketing, has risen rapidly and was estimated to be between 5-10 billion. Create a ocial media hype around hte brand in a short time. 
+Relate to followers on a personal level: Authentic, nurtural, positive. Spends on influencer marketing, has risen rapidly and was estimated to be between 5-10 billion. Create a ocial media hype around hte brand in a short time. 
+
+## Does Influencer Marketing Work?
+40% of consumers have purchased after seeing. $6.50 for every $1 on influencer marketing, YouTube subs trust influencers > celebrities. 
+
