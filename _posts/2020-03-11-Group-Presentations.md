@@ -1,7 +1,7 @@
 ---
 title: Group Presentations (2)
 author: Brett Petch
-date: 2020-03-04 09:30:00
+date: 2020-03-11 09:30:00
 layout: category-post
 category: 
     - lecture
@@ -112,3 +112,4 @@ Fuchs talks quite a bit about Jenkins' Participatory Culture, wherein TikTok is 
 
 # Group 1
 ## 
+
