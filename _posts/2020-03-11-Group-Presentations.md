@@ -110,6 +110,32 @@ Share information with third party sources, etc. marketing firms... Ongoing inve
 
 Fuchs talks quite a bit about Jenkins' Participatory Culture, wherein TikTok is not really completely participatory. Addtionally, there have been several instances of censorship, etc. Users also do not have equal status, where popular creators receive sponsorships, etc. finally, they are a for profit company that commodifies data 'free labour' according to Fuchs. Fuchs also talks about Westin's Control Theory of Privacy, Etzioni: causes grave concern where Chinese companies are forced to share all of their data. This is a threat to national security, especially in military personnel. 
 
-# Group 1
-## 
+# Group 1: 
+## Occupy Wall Street
+A movement / protest against the inequalities, etc. disparity and wealth in America. At the time, america reulted in protestors camping in Zuccotti Park for 2 months. In order to promote the protest, tumblr users were used to attract people to take a photo with 'occupy wallstreet' written on something. Post-Tumblr: Reached supporters on a global scale, including giving a voice to members on the main-stream media. 
 
+Middle class workers for the most part. Were from all walks of life... 
+
+### Context: 
+What was happening in a lower-manhatten area close to wall street. Has rules against overnight stays. So, they had rules, visible area that makes for good protesting place. They created a tent city that stood for ~ 2 months. They would have daily chants, being visible to the 1% that would pass by. People on wall street are typically wealthy stock traders, etc. They'd rather that they weren't there. Collective of people who are upset. On the 15th of October, ~20,000 people walked 10km to Times Square. It was a cool example of a compassionate people. They had a kitchen, all of these ammenities setup to ensure people were not missing up / much of a sacrifice to be there. Everything was free (a spit in the face to corporations). It was a compassionate atmosphere. 
+
+### Police Issues:
+While protests were always peaceful, police took issue with the protesters, where they were arrested, pepper-sprayed, shot, struck with leaded bean-bag, struck with nightsticks. At the end of the movement, ~2am the SWAT team showed up, massive flood lights, etc. forcibly dragged people out that wouldn't leave, pushed the group back from the park. Poice raided them to end.
+
+### Solidarity: 
+Worldwide movement that other cities occupied, however not as big or intensive as that in New York. Canada, Europe, etc. There was also a large amount of slacktivism and support online. Anonymous had come forward and pledged support to this movement. Additionally, it sparked conversation about inequality (didn't change anything though).
+
+### Aftermath
+More looks at militarization and raiding of police, helicopters, dragging people out when they were just sitting there and asking not to be attacked while doing their protest. 
+
+### Participatory Culture
+Fuchs said that participatory culture is often used for designating the involvement of users, audiences, consumers and fans in the creation of culture and content. Occupy wall street is an example of participatory cultrue, in which their hashtag 99percent was distributed on Twitter, which is a spreadable media.
+
+#### Jenkins
+Defines in 5 points: civil engagment. Members believe that contributers matter, etc. encapsulates what the occupy movement is all about. Although doesn't agree with democracy, he ignores the notion of democracy by not looking at ownerships, profit and class. Part. Democracy coincides with Occupy Wall Street in how financial equality was ... Alongside the Arab Spring Movement, the Occupy Wallstreet movement added to slacktivism. This emphasises how fast this was able to spread across social media. The movement moved from an online community to an online protest to different cities in the US. 
+
+### Social Media and Political Involvement
+In addition to this, Anthony Giddens... Stated that "power is a  transofrmative capacity..." this is about not one person being in control all of the time. Was considered to be a precurser to BlackLivesMatter and MeeTooMovement. Political activity and debate. Social media in relation to this...
+
+### Conclusion
+Did not change the economic system, nor the economic equalities. Paved way for other online social movements. Enabled through participatory culture.
